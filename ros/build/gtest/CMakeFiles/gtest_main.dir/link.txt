@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/matthew/PycharmProjects/ROS/arduino_leds/ros/build/gtest/src -lpthread libgtest.so -lpthread -Wl,-rpath,/home/matthew/PycharmProjects/ROS/arduino_leds/ros/build/gtest/src:/home/matthew/PycharmProjects/ROS/arduino_leds/ros/build/gtest 

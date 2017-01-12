@@ -1,0 +1,1 @@
+/home/matthew/.platformio/packages/toolchain-atmelavr/bin/avr-g++   -g   CMakeFiles/ard.dir/src/led.cpp.o CMakeFiles/ard.dir/src/main.cpp.o  -o ard -rdynamic 
